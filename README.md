@@ -4,9 +4,7 @@
 [<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white">](https://u.wechat.com/MPxByBKnNcBtHQ2jvenxe0o)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/itshenry35)
 
-
-
-GitHub stats~:
+You are the ![Visitor Count](https://profile-counter.glitch.me/itsHenry35/count.svg) Visitor
 
 <picture>
 <source 
