@@ -19,5 +19,5 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/itsHenry35/count.
 </picture>
 
 
-Currently, I'm studying as a Grade Eight student of a junior high school in Shanghai. 
+Currently, I'm studying as a Grade Nine student of a junior high school in Shanghai. 
 Feel free to DM me.
